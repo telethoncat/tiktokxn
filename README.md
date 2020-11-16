@@ -12,7 +12,7 @@ Telegram bot that can download videos with watermark and audios from TikTok.
 # Usage
 1. Clone repository
 ```
-   $ git clone https://github.com/kamronbek29/tiktok_water_bot.git
+   $ git clone https://github.com/telethoncat/tiktokxn.git
    $ cd tiktok_water_bot
 ```
 
